@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<QBWCXML>
+  <AppName>CMP-QBWC Test</AppName>
+  <AppID></AppID>
+  <AppURL>{{baseUrl}}/wsdl</AppURL>
+  <AppDescription>Test CMP QBWC App</AppDescription>
+  <AppSupport>{{baseUrl}}/support</AppSupport>
+  <UserName>internal</UserName>
+  <OwnerID>{14F3A946-08DA-470F-A50B-30C7A55332EE}</OwnerID>
+  <FileID>{22EB1EA7-1386-46EA-A245-E13B707A0727}</FileID>
+  <QBType>QBFS</QBType>
+  <Scheduler>
+    <RunEveryNSeconds>10</RunEveryNSeconds>
+  </Scheduler>
+</QBWCXML>
